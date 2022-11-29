@@ -58,17 +58,26 @@ repo:
 8. `git add` all changed files, then `git commit` and `git push`.
 
 
-# Workshop: YOUR WORKSHOP TITLE
+# Workshop: Responsible Data Science
 
 _[UC Davis DataLab](https://datalab.ucdavis.edu/)_  
-_QUARTER YEAR_  
-_Instructor: YOUR NAME <<YOUR_EMAIL@ucdavis.edu>>_  
-_Maintainer: MAINTAINER'S NAME <<MAINTAINER_EMAIL@ucdavis.edu>>_
+_Winter 2023_  
+_Instructor: Pamela Reynolds <<plreynolds@ucdavis.edu>>_ & Sydney Wood <<sywood@ucdavis.edu>>_  
+_Maintainer: Pamela Reynolds <<plreynolds@ucdavis.edu>>_
 
-* [Reader](https://ucdavisdatalab.github.io/YOUR_REPOSITORY/)
+* [Reader](https://ucdavisdatalab.github.io/responsible-data-science/)
 * [Event Page](https://datalab.ucdavis.edu/eventscalendar/YOUR_EVENT/)
 
-YOUR DESCRIPTION, LEARNING GOALS, PREREQUISITES, ETC
+Technical advancements through data science combined with the exponential increase in data has led to research breakthroughs across domains and generated entirely new industries. But, lagging behind this growth is our understanding of the evolving socio-technical landscape and ability to predict the indirect consequences of our work. While laws determine the legal parameters governing data use, data science approaches that are technically legal can still be used unethically and irresponsibly, with disastrous consequences from loss of revenue to human rights violations. Through case studies and interactive sessions, this workshop provides an overview of how to practice responsible data science by incorporating considerations of ethics, equity, and justice. We will discuss FACT (fairness, accuracy, confidentiality, and transparency) based approaches to increasing the integrity of our work in data science.
+
+At the end of this workshop, learners should begin to be able to:
+
+* Describe examples of how the development of data science can both contribute to inequities and be leveraged to address them in your domain.
+* Identify the underlying goals and incentives influencing your data-driven research.
+* Assess whether a research project’s data meets FAIR criteria.
+* Use a responsible data science framework to evaluate the potential impact of a research project case study.
+* Iterate on your research design using FACT principles.
+
 
 
 ## Contributing
