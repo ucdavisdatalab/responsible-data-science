@@ -1,10 +1,10 @@
 ---
 title: Responsible Data Science
-author: Pamela Reynolds & Sydney Wood
+author: Pamela Reynolds, Sydney Wood, & Michael Livanos
 date: "`r Sys.Date()`"
 
-github-repo: ucdavisdatalab/YOUR_REPO
-url: "https://ucdavisdatalab.github.io/YOUR_REPO/"
+github-repo: ucdavisdatalab/responsible-data-science
+url: "https://ucdavisdatalab.github.io/responsible-data-science/"
 
 lang: en-us
 
@@ -26,8 +26,8 @@ output:
           </a>
         collapse: section
       sharing: no
-      view: https://github.com/ucdavisdatalab/YOUR_REPO/blob/master/%s
-      edit: https://github.com/ucdavisdatalab/YOUR_REPO/edit/master/%s
+      view: https://github.com/ucdavisdatalab/responsible-data-science/blob/master/%s
+      edit: https://github.com/ucdavisdatalab/responsible-data-science/edit/master/%s
 ---
 
 # Overview {-}
