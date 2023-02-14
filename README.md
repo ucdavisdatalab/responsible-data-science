@@ -62,11 +62,11 @@ repo:
 
 _[UC Davis DataLab](https://datalab.ucdavis.edu/)_  
 _Winter 2023_  
-_Instructor: Pamela Reynolds <<plreynolds@ucdavis.edu>>_ & Sydney Wood <<sywood@ucdavis.edu>>_  
+_Instructor: Pamela Reynolds <<plreynolds@ucdavis.edu>>_ Sydney Wood <<sywood@ucdavis.edu>>_  & Michael Livanos_
 _Maintainer: Pamela Reynolds <<plreynolds@ucdavis.edu>>_
 
 * [Reader](https://ucdavisdatalab.github.io/responsible-data-science/)
-* [Event Page](https://datalab.ucdavis.edu/eventscalendar/YOUR_EVENT/)
+* [Event Page](https://datalab.ucdavis.edu/eventscalendar/responsible-data-science/)
 
 Technical advancements through data science combined with the exponential increase in data has led to research breakthroughs across domains and generated entirely new industries. But, lagging behind this growth is our understanding of the evolving socio-technical landscape and ability to predict the indirect consequences of our work. While laws determine the legal parameters governing data use, data science approaches that are technically legal can still be used unethically and irresponsibly, with disastrous consequences from loss of revenue to human rights violations. Through case studies and interactive sessions, this workshop provides an overview of how to practice responsible data science by incorporating considerations of ethics, equity, and justice. We will discuss FACT (fairness, accuracy, confidentiality, and transparency) based approaches to increasing the integrity of our work in data science.
 
