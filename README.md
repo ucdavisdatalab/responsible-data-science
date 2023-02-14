@@ -72,12 +72,13 @@ Technical advancements through data science combined with the exponential increa
 
 At the end of this workshop, learners should begin to be able to:
 
-* Describe examples of how the development of data science can both contribute to inequities and be leveraged to address them in your domain.
-* Identify the underlying goals and incentives influencing your data-driven research.
-* Assess whether a research project’s data meets FAIR criteria.
-* Use a responsible data science framework to evaluate the potential impact of a research project case study.
-* Iterate on your research design using FACT principles.
-
+* Define what ethics, equity, responsibility, and justice mean for the data sciences.
+* Describe examples of how the development of data science can both contribute to inequities, and be leveraged to address them.
+* Begin to identify the underlying context, goals, and incentives influencing their data-driven research.
+* Assess whether a research project’s data meets FAIR (Findable, Accessible, Interoperable and Reusable) criteria.
+* Use a responsible data science (RDS) framework to evaluate the potential impact(s) of a research project case study.
+* Revise their research design using FACT(Fairness, Accuracy, Confidentiality, and Transparency) principles.
+* Identify where to go to learn more.
 
 
 ## Contributing
