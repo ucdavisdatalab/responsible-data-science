@@ -1,7 +1,7 @@
 # Background
 
-```{r, echo=FALSE, fig.alt="Word cloud of terms in blue text relating to data science, with 'data science' in the center with the largest font size", out.width="25%"}
-knitr::include_graphics("./images/data-science-wordcloud.tiff")
+```{r, echo=FALSE, fig.alt="Word cloud of terms in blue text relating to data science, with 'data science' in the center with the largest font size"}
+knitr::include_graphics("./images/data-science-wordcloud.jpg")
 ```
 
 ## Defining Data Science
@@ -18,7 +18,7 @@ At the UC Davis DataLab we embrace the commonalities and nuances of these defini
 ```{r, echo=FALSE, fig.alt="List of events through time with the title 'Data Science Timeline' v. 2.0 and attribution @faviovaz and @heizelvazquez", out.width="25%"}
 knitr::include_graphics("./images/data-science-timeline.jpg")
 ```
-*Illustration by Héizel Vázquez.*
+[*Illustration by Héizel Vázquez.*](https://towardsdatascience.com/the-roots-of-data-science-77c71115229)
 
 Most descriptions of the history of data science summarize a list of seminal computational and statistical methods published since the mid-1900's, as in the timeline above. But the practice of data science - abstracting complex phenomena into simpler forms to distill and convey meaning - has been going on since before the agricultural revolution. The development and emergence of data science as a new field has been driven and shaped by our historical and cultural landscapes, similarly to all other domains. Here we will contextualize some modern developments of data science to highlight trends and discuss the oppressive emergence, and emancipatory potential, of the field.
 
@@ -42,4 +42,4 @@ The ability of compute power to outstrip available data did not last for long. I
 
 Corresponding increases in compute technologies to meet the needs of big data cast a veneer of objectivity and fairness onto the field. Systems of oppression are human-created, so machine-driven processes and inferences seemed free from the subjectivity of Galton's era. But, the data and computational models themselves are not free from human decision. 
 
-Who decides which sentences are included or excluded from a natural language dataset? Who decided that the vast majority of crash test dummies should represent an ‘average male body’ or, for that matter, what an ‘average male body' even is? What implications does this have for drivers whose bodies do not conform to those proportions? When crime-prediction datasets are based on historical data on policing, and image datasets contain significantly more white people that people of color, it's impossible to excape from cultural bias. Whenever data are collected, subjective decisions informed by societal values inevitably impact resulting decision-making models. In our culture, undercurrents of colonialism, white supremacy, and the patriarchy pervade all fields - including data science. Have we really progressed beyond the biases of Galton?
+Who decides which sentences are included or excluded from a natural language dataset? Who decided that the vast majority of crash test dummies should represent an ‘average male body’ or, for that matter, what an ‘average male body' even is? What implications does this have for drivers whose bodies do not conform to those proportions? When crime-prediction datasets are based on historical data on policing, and image datasets contain significantly more white people that people of color, it's impossible to escape from cultural bias. Whenever data are collected, subjective decisions informed by societal values inevitably impact resulting decision-making models. In our culture, undercurrents of colonialism, white supremacy, and the patriarchy pervade all fields - including data science. Have we really progressed beyond the biases of Galton?
