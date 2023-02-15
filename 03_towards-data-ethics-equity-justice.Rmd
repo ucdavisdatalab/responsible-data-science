@@ -1,88 +1,19 @@
-# Towards Data Ethics, Equity and Justice
-
-Laws determine the legal parameters governing data use. But something that is legal can still be unethical and irresponsible. Here we imply the definition of **ethics** as the branch of knowledge establishing the fundamental principles of "right and wrong" behavior. These standards are informative, but not sufficient, for the appropriate management and use of data in today’s age of technology. **Data equity** provides a lens for considering the multifaceted implications of how data are collected, processed, analyzed, interpreted, and distributed. It is helpful in understanding how data has been historically used to harm marginalized communities and communities of color. Also, data equity allows opportunities for researchers to understand how marginalized communities have been adversely impacted by data misuse through racial bias, hyper surveillance, and stereotyping. **Data justice** is often tied to data equity as an approach that [“redresses the ways of collecting and disseminating data that have invisibilized and harmed historically marginalized communities.”](https://www.coalitioncommunitiescolor.org/-why-research-data-justice) Data justice helps identify the role of data in maintaining systems of power and privilege, knowledge inequity, and harmful decision making. The pursuit of data justice can be a restorative process promoting fairness in how people are made visible and treated because of their digital data.
-
-In this workshop we will not debate ethics, equity, or justice. **We invite you into this space with the explicit assumption that you seek to produce data-driven research benefiting society.** We assume you seek to use data science to generate knowledge while causing as little harm as possible. We aim to give you the intellectual tools to embed values of equity and justice into your own research by focusing on frameworks for responsible use of data and data science methodologies.
+# Data Ethics, Equity and Justice
 
 *“Responsible data science promotes best practices that maximize the availability of high quality data while limiting the potential for misuse that could erode fundamental rights and undermine the public trust in digital technologies.”*[-Digital Society](https://www.thedigitalsociety.info/themes/responsible-data-science/) 
 
+## Ethics
 
-## Promise And Perils Case Studies
+Laws determine the legal parameters governing data use. But something that is legal can still be unethical and irresponsible. Here we imply the definition of **ethics** as the branch of knowledge establishing the fundamental principles of "right and wrong" behavior. These standards are informative, but not sufficient, for the appropriate management and use of data in today’s age of technology. 
 
-Let’s explore responsible data science by unpacking examples of data science enabled automation and accessibility, which are commonly lauded as promoting social good.
+## Equity
 
-Read through the assigned case study from the list below. Introduce yourself to your breakout group and discuss the study. To help guide your discussion, consider:
+When practitioners talk about data ethics, we are often signaling the need for data equity. **Equity** is the process by which we work “toward fair outcomes for people or groups by treating them in ways that address their unique advantages or barriers” [(Hernandez, 2022)](./additional-materials/inclusive-language-mentoring-up.pdf). **Data equity** thus provides a lens for considering the multifaceted implications of how data are collected, processed, analyzed, interpreted, and distributed. It is helpful in understanding how data has been historically used to harm marginalized communities and communities of color. Data equity also allows opportunities for researchers to understand how marginalized communities have been adversely impacted by data misuse through racial bias, hyper surveillance, and stereotyping. 
 
-* What is the real problem the technology was meant to solve? Who determined this was a problem? Who are the stakeholders? 
-* Whose voice is being represented? Who is being silenced?
-* Are there any consequences and dilemmas missing from the case study description?
-* What, if any, of the consequences should have been anticipated? Why do you think they were not considered? 
-* What strategies, technical or non-technical, should have been included from the beginning to help address potential dilemmas? 
-* What can you learn from this study apply to your work? What should we as a research community learn for future automation or accessibility projects?
-* If there is still time, pick and skim another case study. Is there any overlap in your responses? 
+## Justice
 
-Nominate someone to share out what you discussed.
+**Data justice** is often tied to data equity as an approach that [“redresses the ways of collecting and disseminating data that have invisibilized and harmed historically marginalized communities.”](https://www.coalitioncommunitiescolor.org/-why-research-data-justice) Data justice helps identify the role of data in maintaining systems of power and privilege, knowledge inequity, and harmful decision making. The pursuit of data justice can be a restorative process promoting fairness in how people are made visible and treated because of their digital data.
 
+**In this workshop we will not debate ethics, equity, or justice. We invite you into this space with the explicit assumption that you seek to produce data-driven research benefiting society.** 
 
-### Automation
-
-While automation comes in many forms, perhaps the most salient examples come from changes within the workforce. For example, advances in technology created in part through data science have reduced the danger presented to human workers through replacement or supplementation. 
-
-#### Case 1: Robotics in Factories and Mining
-
-**Summary**: Historically, factory and mining jobs have been the most dangerous and unrewarding jobs with relatively low wages and, in many cases, the constant threat of disaster and workplace injury. Robots and other automation technologies were introduced not only to increase productivity, but also to reduce the negative consequences to humans who previously worked those jobs. Here we don’t describe any one employment sector, instead we give an overview of the potential impacts of automation in various workplaces.  
-
-**Good**: The rate of  workplace death and injury in factory and mining jobs have steadily decreased since robots were first introduced into the manufacturing process in 1980. Additionally, with the design of more ergonomic robots there is the benefit of reducing musculoskeletal disorders, to which factory workers are particularly susceptible.
-
-**Consequences**: Transitioning to robotic labor has had a major socioeconomic impact in the United States. There has been an estimated 50-70% decrease in manufacturing jobs due to automation since 1980. While the incorporation of automation opened new jobs in robot maintenance and manufacturing, many individuals previously employed in factory jobs did not have the skills to fill these new more high-tech jobs, leading to massive unemployment rates, disproportionately affecting older workers. In addition, by shifting the power between management and labor positions, automating the workforce has weakened the power of organized labor, which has been the driving force of labor laws across all employment sectors.  
-
-
-#### Case 2: Automation in Public Safety 
-
-**Summary**: In the early 2010s many public safety operations began benefiting from the use of artificial intelligence (AI) robotics and machine learning algorithms. Here we review the impacts of automated labor and decision-making related to “public safety,” broadly defined as emergency responders (i.e., police, military, search and rescue, etc.). Below we discuss the various impacts of the decisions from positive (injury and loss of life prevention) to negative (mental health and human rights impacts). 
-
-**Good**: For example, bomb and hazardous material disposal robots began taking the place of safety technicians/specialists, thereby preserving human life. Militarized automated technology, such as flight drones equipped with risk assessment AI, has reduced the number of human pilots in combat zones. More recently, AI robots have been proposed as a supplement or replacement for first responders, such as rescue teams, during natural disasters. 
-
-**Consequences**: Some of these robots utilize facial recognition, surveillance AI, and/or are armed with weapons.  Decision-making using AI (especially facial recognition) has repeatedly shown racial and ethnic biases. There are major concerns from various human rights organizations, academic institutions and advocacy groups about liability for public safety robot malfunctions, inaccurate or biased decision making by automated software, and privacy concerns about public surveillance and facial recognition. In November of 2022, San Francisco officials voted yes to allow armed robots to be used in “extreme” circumstances. Less than a week later SF regulatory board overturned the decision after public outcry about Killer robots.  There is insufficient support for the mental health needs of flight drones’ human pilots, who increasingly suffer from PTSD. Even the more “benign” automated traffic tickets through speedometer and license plate camera disproportionately affect communities of color. In D.C. it was found that black neighborhoods were fined 17 times more often in lower-income black communities compared to white-segregated neighborhoods. Evidence suggests that this disparity is not due to base rate differences in traffic violations. Instead, communities of color had more automated surveiled locations than wealthy parts of the city. In addition, vendors of these technologies have been found to regulate yellow light durations and increase the administrative costs  to the city which inflates fine amounts disproportionately directed at marginalized communities. This is only one of the many examples of automation targeting marginalized communities.
-
-
-#### Case 3: Self-Driving Cars 
-
-**Summary**:  Just think of the amount of free-time we would have if our cars could drive themselves! Beyond being a very cool and attractive advancement in technology. The implications of automatic vehicles has become a greatly contentious issue due to potential impacts on losses of life, jobs, liability, and marginalized communities.
-
-**Good**: Since 1986 (when the car seat law took effect in all 50 states in the US) through 2021, there have been approximately 40,000 traffic fatalities per year (https://www.nhtsa.gov/data). In theory, self-driven cars should be safer than ones driven by humans. Computer processing speeds are millions of times faster than the average human reaction time, so unexpected collisions could be rare in a future of entirely self-driving cars. 
-
-**Predicted Consequences**: Over 2.2 million people are currently employed as drivers in the US. If we switched to fully automated drivers, would there still be a need for these employees? The Canadian government estimates over 1 million jobs in Canada will be lost from self-driving cars. Automation in driving poses the same short-term harm, but long term benefits that automation in the industrial jobs posed in the 1990s and early 2000s. Much of the official discourse focuses on the economic impact of a shift toward automatic vehicles. However, a more important consequence is that self-driving cars rely on the same computer vision technologies that we have already seen to be racially biased -- these cars are more likely to kill black pedestrians than white pedestrians (Wilson et al, 2019).
-
-**Dilemma**:  Self-driving cars may be the way of the future, but all technological advances take trial and error before being perfected. What would that period of trial and error look like for self-driving cars? Given existing known biases in AI and computer vision technologies, we can expect that marginalized populations will be the most negatively impacted. If the probability of malfunctioning is less than the probability of a crash due to human error, is that good enough to go to market? Who is liable if the AI manages to learn unsafe driving practices from its surroundings? What does liability look like for insurance companies, car manufacturers, car owners? How will this disadvantage individuals who are unable to afford self-driving cars? What is the carbon footprint for something so computationally intensive? These are just a few of the ethics and equity concerns with automated vehicle development that our society has yet to address.
-
-
-### Accessibility
-
-Accessibility is a fundamental requirement for equity. Accessibility does not just relate to disability accommodations, although that is incredibly important. It also involves equitable access to resources, information, and opportunities. In addition, accessibility needs are different for different people and in different contexts. While as a society we still have a long way to go in supporting equitable access to various needs for various people, data science has contributed to greater accessibility for a large population of people who have previously had limited access to many quality of life improvements.
-
-#### Case 4: Health Tracking and Precision Medicine
-
-**Summary**: The intersection of biostatistics, data-science, software development and biotechnology has led to an increase in mobile applications (apps) aimed at tracking health metrics and outcomes. These advances have led to a major cultural shift regarding awareness around personal health. Consumer research suggests that over 60% of smartphone users use one or more mobile health (mHealth) apps. There is even evidence that health care workers “prescribe” or recommend specific mHealth apps. In addition most mHealth apps include features that are free to use. However, as these apps are generally not subject to regulation, misuse can lead to negative physical and mental health outcomes, especially in vulnerable populations. 
-
-**Good**: On the academic side, the accessibility of vast amounts of non-invasive health data has allowed researchers to develop innovative methods and products. From a public health perspective, many individuals also have a better understanding of general and their personal health trends. Gamification on these apps promotes healthy behaviors like drinking water, exercising, sleep hygiene, mental health interventions (such as mindfulness and coping skills), etc. In addition, health tracking apps can help monitor symptoms and triggers for those with chronic disorders/illnesses like diabetes, Crohn's disease, mood disorders, and irritable bowel syndrome (IBS). According to the CDC, 9.7% of people who reside in the US were uninsured in 2020. While health apps are not a replacement for actual healthcare, they have the potential to provide valuable services that make substantial differences in health outcomes in underserved populations. 
-
-**Unintended Consequences**: Despite the increased usage of smart devices in low socio-economic populations and the advocacy around their potential for combating health inequities, evidence suggests that the full potential of mHealth apps is still only accessible to a small percentage of people underserved by health care systems.  In addition, while mHealth apps may be accurate “on average,” they may not be appropriate for a given user’s physiology and over-reliance on mass-produced health apps thus poses safety concerns. Weight-loss apps, especially, have a huge potential for misuse and some apps marketed to help with weight loss have been associated with higher rates of disordered eating. Truly individualized, precision medicine focused mHealth apps are likely to continue to be costly, rare, and widely inaccessible to underserved populations.
-
-**Dilemma**: Most health apps used in the US are not regulated by the Food and Drug Administration (FDA); despite what the apps claim there is no guarantee that their information is accurate. Additionally, any information shared over health apps is not guaranteed to be under HIPAA protection. For example, your identifiable health data can be sold to insurance companies, who can use that information to impact your insurance prices and premiums. Employers could use the data for hiring and career decisions. Health data in these apps is more vulnerable to theft by hackers, and has an increased risk for surveillance.
-
-
-#### Case 5: Improvements for Underserved Populations
-
-**Summary**:  Historically, people with sensory impairments have had limited accessibility to the majority of internet and smart device functionality. Only within the last 5 years has text-to-speech, auto-captioning, and AI-generated photo descriptions become mainstream for online content, with tremendous accessibility increases for those with visual and auditory impairments. 
-
-**Good**: Data science has also been used to develop “smart” assistive technologies that allow for sound mixing hearing aids, prosthetic limb control, computer vision (medicine recognition, color recognition, physical writing to speech, assistive sign language), and smart cane navigation, to name a few.
-
-**Unintended Impact**: The availability and accessibility of the assistive technologies themselves is often limited. Medical devices in this space are often expensive and/or not deemed medically necessary (and therefore not covered by most health insurance companies), which further disproportionately disadvantages underserved populations. The resulting loss of economic and social opportunities due to barriers in accessing accessible technologies further reinforces existing inequities.
-
-**Dilemma**: There is a severe lack of research regarding the impact or availability of assistive technologies to their relevant communities within the US. Many devices are developed by private corporations and strong copyright laws prevent these technologies from being made available in other countries or locations. Even federally-funded projects typically generate products that are economically non-viable for a majority of the population they aim to support.
-
-
-## Discussion
-
-These case studies illustrate the multifaceted contributions of data science to modern living. The fact that there are unintended consequences and ethical dilemmas associated with data science advancements seeking to promote social good does not negate its role, but instead serves as a note of caution. As data scientists it is our job to predict and reduce the impact of negative consequences that may emerge from our research and development products. The fact that we still have a long way to go should inspire you to continue to innovate the data science tools, methods, and approaches in your domain. 
+We assume you seek to use data science to generate knowledge while causing as little harm as possible. We aim to give you the intellectual tools to embed values of equity and justice into your own research by focusing on frameworks for responsible use of data and data science methodologies.
