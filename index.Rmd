@@ -1,6 +1,6 @@
 ---
 title: Responsible Data Science
-author: Pamela Reynolds, Sydney Wood, & Michael Livanos
+author: [Pamela Reynolds, Sydney Wood, & Michael Livanos]
 date: "`r Sys.Date()`"
 
 github-repo: ucdavisdatalab/responsible-data-science
@@ -40,7 +40,6 @@ Technical advancements through data science combined with the exponential increa
 
 This training is intended for anyone who works with data. It is for researchers, students, and other learners who are interested in becoming better data scientists. The topic of responsible data science (RDS) is too broad for a single workshop, and thus this curriculum is designed as an introduction to help you begin to identify how your priorities and the socio-technical and historical context of your data and methods impact your research. Through discussions of case studies and emerging data science movements, we will describe actionable practices that you can implement to improve your research and development workflows. We encourage you to engage with the many additional readings, course materials, and other resources linked herein and continue the dialogue with others in your classes, research groups, and other communities.
 
-
 ## Learning Objectives
 
 At the end of this workshop, learners should begin to be able to:
@@ -52,7 +51,6 @@ At the end of this workshop, learners should begin to be able to:
 * Use a responsible data science (RDS) framework to evaluate the potential impact(s) of a research project case study.
 * Revise their research design using FACT(Fairness, Accuracy, Confidentiality, and Transparency) principles.
 * Identify where to go to learn more.
-
 
 ## Expectations
 
