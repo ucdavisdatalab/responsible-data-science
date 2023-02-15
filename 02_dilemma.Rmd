@@ -23,8 +23,4 @@ The application of data science has drastically affected cultures and social str
 
 So, which is it? Is data science the next stage in science’s evolution, necessary for advancing medical, environmental, biological and social science disciplines? Or is data science just a new way for those in power to control wealth, access to information, and influence the masses?
 
-Our answer to this dichotomy, and the motivation for this curriculum, is that data science is neither. Data science is not an entity, it does not have agency. Data science is a set of tools and methods that don’t have inherent motivations or goals. Developed by humans living in a particular place and time, data science is both as powerful, imperfect, and biased as the society and data upon which it is based.
-
-**It is up to us as data scientists, researchers, and practitioners to embrace data ethics, equity, and justice in dictating its responsible development and use.**
-
-**REFLECTION** Who benefits from your specific field? What communities experience harm? What are some of the ethical costs of your research?
+To approach this question, let's start at the beginning and learn about the history of data science.
