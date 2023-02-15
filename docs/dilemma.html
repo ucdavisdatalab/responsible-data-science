@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en-us" xml:lang="en-us">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>3 Dilemma | Responsible Data Science</title>
+  <meta name="description" content="3 Dilemma | Responsible Data Science" />
+  <meta name="generator" content="bookdown 0.32 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="3 Dilemma | Responsible Data Science" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta name="github-repo" content="ucdavisdatalab/responsible-data-science" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="3 Dilemma | Responsible Data Science" />
+  
+  
+  
+
+<meta name="author" content="Pamela Reynolds, Sydney Wood, &amp; Michael Livanos" />
+
+
+<meta name="date" content="2023-02-15" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="background.html"/>
+<link rel="next" href="towards-data-ethics-equity-and-justice.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="https://datalab.ucdavis.edu/">
+  <img src="https://datalab.ucdavis.edu/wp-content/uploads/2019/07/datalab-logo-full-color-rgb-1.png" style="height: 100%; width: 100%; object-fit: contain" />
+</a></li>
+<li><a href="./" style="font-size: 18px">YOUR WORKSHOP TITLE</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Overview</a></li>
+<li class="chapter" data-level="1" data-path="workshop-responsible-data-science.html"><a href="workshop-responsible-data-science.html"><i class="fa fa-check"></i><b>1</b> Workshop: Responsible Data Science</a><ul>
+<li class="chapter" data-level="1.1" data-path="workshop-responsible-data-science.html"><a href="workshop-responsible-data-science.html#overview-1"><i class="fa fa-check"></i><b>1.1</b> Overview</a></li>
+<li class="chapter" data-level="1.2" data-path="workshop-responsible-data-science.html"><a href="workshop-responsible-data-science.html#introduction"><i class="fa fa-check"></i><b>1.2</b> Introduction</a></li>
+<li class="chapter" data-level="1.3" data-path="workshop-responsible-data-science.html"><a href="workshop-responsible-data-science.html#learning-objectives"><i class="fa fa-check"></i><b>1.3</b> Learning Objectives</a></li>
+<li class="chapter" data-level="1.4" data-path="workshop-responsible-data-science.html"><a href="workshop-responsible-data-science.html#expectations"><i class="fa fa-check"></i><b>1.4</b> Expectations</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="background.html"><a href="background.html"><i class="fa fa-check"></i><b>2</b> Background</a><ul>
+<li class="chapter" data-level="2.1" data-path="background.html"><a href="background.html#defining-data-science"><i class="fa fa-check"></i><b>2.1</b> Defining Data Science</a></li>
+<li class="chapter" data-level="2.2" data-path="background.html"><a href="background.html#history-in-context"><i class="fa fa-check"></i><b>2.2</b> History in Context</a><ul>
+<li class="chapter" data-level="2.2.1" data-path="background.html"><a href="background.html#development-of-classic-methods"><i class="fa fa-check"></i><b>2.2.1</b> Development of Classic Methods</a></li>
+<li class="chapter" data-level="2.2.2" data-path="background.html"><a href="background.html#emergence-of-the-computer"><i class="fa fa-check"></i><b>2.2.2</b> Emergence of the Computer</a></li>
+<li class="chapter" data-level="2.2.3" data-path="background.html"><a href="background.html#rise-of-big-data"><i class="fa fa-check"></i><b>2.2.3</b> Rise of Big Data</a></li>
+<li class="chapter" data-level="2.2.4" data-path="background.html"><a href="background.html#the-illusion-of-computational-objectivity"><i class="fa fa-check"></i><b>2.2.4</b> The Illusion of Computational Objectivity</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="dilemma.html"><a href="dilemma.html"><i class="fa fa-check"></i><b>3</b> Dilemma</a><ul>
+<li class="chapter" data-level="3.1" data-path="dilemma.html"><a href="dilemma.html#the-power-and-promises-of-data-science"><i class="fa fa-check"></i><b>3.1</b> The Power (and Promises) of Data Science</a></li>
+<li class="chapter" data-level="3.2" data-path="dilemma.html"><a href="dilemma.html#the-problem-of-data-science"><i class="fa fa-check"></i><b>3.2</b> The Problem of Data Science</a></li>
+<li class="chapter" data-level="3.3" data-path="dilemma.html"><a href="dilemma.html#good-or-evil"><i class="fa fa-check"></i><b>3.3</b> Good or Evil?</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="towards-data-ethics-equity-and-justice.html"><a href="towards-data-ethics-equity-and-justice.html"><i class="fa fa-check"></i><b>4</b> Towards Data Ethics, Equity and Justice</a><ul>
+<li class="chapter" data-level="4.1" data-path="towards-data-ethics-equity-and-justice.html"><a href="towards-data-ethics-equity-and-justice.html#promise-and-perils-case-studies"><i class="fa fa-check"></i><b>4.1</b> Promise And Perils Case Studies</a><ul>
+<li class="chapter" data-level="4.1.1" data-path="towards-data-ethics-equity-and-justice.html"><a href="towards-data-ethics-equity-and-justice.html#automation"><i class="fa fa-check"></i><b>4.1.1</b> Automation</a></li>
+<li class="chapter" data-level="4.1.2" data-path="towards-data-ethics-equity-and-justice.html"><a href="towards-data-ethics-equity-and-justice.html#accessibility"><i class="fa fa-check"></i><b>4.1.2</b> Accessibility</a></li>
+</ul></li>
+<li class="chapter" data-level="4.2" data-path="towards-data-ethics-equity-and-justice.html"><a href="towards-data-ethics-equity-and-justice.html#discussion"><i class="fa fa-check"></i><b>4.2</b> Discussion</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="assessment.html"><a href="assessment.html"><i class="fa fa-check"></i><b>5</b> Assessment</a></li>
+<li class="divider"></li>
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
+  <img alt="CC BY-SA 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" style="float: right; padding-right: 10px;" />
+</a>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Responsible Data Science</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="dilemma" class="section level1 hasAnchor">
+<h1><span class="header-section-number">3</span> Dilemma<a href="dilemma.html#dilemma" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="the-power-and-promises-of-data-science" class="section level2 hasAnchor">
+<h2><span class="header-section-number">3.1</span> The Power (and Promises) of Data Science<a href="dilemma.html#the-power-and-promises-of-data-science" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Data science has contributed to breakthroughs in nearly every discipline, leading to some of the most striking advances and discoveries of the 21st century.</p>
+<p>Some noteworthy contributions of data science include (Wamba et al., 2015):</p>
+<ul>
+<li>Creating transparency</li>
+<li>Enabling experimentation to discover needs</li>
+<li>Exposing variability and improving performance</li>
+<li>Segmenting populations to customize actions</li>
+<li>Replacing/supporting human decision making with automated algorithms</li>
+<li>Innovating new business models, products and services</li>
+</ul>
+<p>Within our daily lives, the ability to parse large volumes of data to identify useful information is paramount. To name a few: web search engines optimized to return the most useful links, caller ID warning us not to pick up spam calls, recommender systems helping us find new music, real time traffic updates, speech to text, and instant language translation technologies. These mundane tasks belie revolutionary technological advances enabled by stores of big data that have also been used to elevate living standards and develop life-saving technologies.</p>
+</div>
+<div id="the-problem-of-data-science" class="section level2 hasAnchor">
+<h2><span class="header-section-number">3.2</span> The Problem of Data Science<a href="dilemma.html#the-problem-of-data-science" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>The application of data science has drastically affected cultures and social structures on a rapid scale, sometimes with unintended consequences. For example, web search engines optimized to return the most useful links are built to prioritize popularity without taking veracity into account, which can contribute to the spread of misinformation. Caller ID can create a false sense of security because scammers have learned to make <a href="https://sevis.com/the-dark-side-of-voice-calls/">legitimate seeming names</a> and numbers appear. Recommender systems helping us find new music could be limiting the <a href="https://transactions.ismir.net/articles/10.5334/tismir.106/">socio-cultural diversity</a> of the artists we listen to. Despite its accolades, data science is also blamed for perpetuating and exacerbating racial bias and harming disenfranchised populations.</p>
+</div>
+<div id="good-or-evil" class="section level2 hasAnchor">
+<h2><span class="header-section-number">3.3</span> Good or Evil?<a href="dilemma.html#good-or-evil" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>So, which is it? Is data science the next stage in science’s evolution, necessary for advancing medical, environmental, biological and social science disciplines? Or is data science just a new way for those in power to control wealth, access to information, and influence the masses?</p>
+<p>Our answer to this dichotomy, and the motivation for this curriculum, is that data science is neither. Data science is not an entity, it does not have agency. Data science is a set of tools and methods that don’t have inherent motivations or goals. Developed by humans living in a particular place and time, data science is both as powerful, imperfect, and biased as the society and data upon which it is based.</p>
+<p><strong>It is up to us as data scientists, researchers, and practitioners to embrace data ethics, equity, and justice in dictating its responsible development and use.</strong></p>
+<p><strong>REFLECTION</strong> Who benefits from your specific field? What communities experience harm? What are some of the ethical costs of your research?</p>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="background.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="towards-data-ethics-equity-and-justice.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": false,
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/ucdavisdatalab/responsible-data-science/edit/master/02_dilemma.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": "https://github.com/ucdavisdatalab/responsible-data-science/blob/master/02_dilemma.Rmd",
+"text": null
+},
+"download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "section"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
