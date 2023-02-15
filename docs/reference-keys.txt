@@ -1,5 +1,4 @@
-workshop-responsible-data-science
-overview-1
+workshop-description
 introduction
 learning-objectives
 expectations
