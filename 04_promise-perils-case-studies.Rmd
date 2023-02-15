@@ -2,17 +2,18 @@
 
 Let’s explore responsible data science by unpacking examples of data science enabled automation and accessibility, which are commonly lauded as promoting social good.
 
-Read through the assigned case study from the list below. Introduce yourself to your breakout group and discuss the study. To help guide your discussion, consider:
+Read through the assigned case study from the list below. Introduce yourself to your breakout group and discuss the study. 
+
+To help guide your discussion, consider:
 
 * What is the real problem the technology was meant to solve? Who determined this was a problem? Who are the stakeholders? 
 * Whose voice is being represented? Who is being silenced?
 * Are there any consequences and dilemmas missing from the case study description?
-* What, if any, of the consequences should have been anticipated? Why do you think they were not considered? 
-* What strategies, technical or non-technical, should have been included from the beginning to help address potential dilemmas? 
+* What, if any, of the consequences should have been anticipated? Why do you think they were not considered? * What strategies, technical or non-technical, should have been included from the beginning to help address potential dilemmas? 
 * What can you learn from this study apply to your work? What should we as a research community learn for future automation or accessibility projects?
 * If there is still time, pick and skim another case study. Is there any overlap in your responses? 
 
-Nominate someone to share out what you discussed.
+*Nominate someone to share out what you discussed.*
 
 
 ## Automation
