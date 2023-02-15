@@ -19,7 +19,7 @@ output:
           <li><a href="https://datalab.ucdavis.edu/">
             <img src="https://datalab.ucdavis.edu/wp-content/uploads/2019/07/datalab-logo-full-color-rgb-1.png" style="height: 100%; width: 100%; object-fit: contain" />
           </a></li>
-          <li><a href="./" style="font-size: 18px">YOUR WORKSHOP TITLE</a></li>
+          <li><a href="./" style="font-size: 18px">Responsible Data Science</a></li>
         after: |
           <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
             <img alt="CC BY-SA 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" style="float: right; padding-right: 10px;" />
@@ -32,9 +32,7 @@ output:
 
 # Overview {-}
 
-# Workshop: Responsible Data Science
-
-## Overview
+## Workshop Description
 
 Technical advancements through data science combined with the exponential increase in data has led to research breakthroughs across domains and generated entirely new industries. But, lagging behind this growth is our understanding of the evolving socio-technical landscape and ability to predict the indirect consequences of our work. While laws determine the legal parameters governing data use, data science approaches that are technically legal can still be used unethically and irresponsibly, with disastrous consequences from loss of revenue to human rights violations. Through case studies and interactive sessions, this workshop provides an overview of how to practice responsible data science by incorporating considerations of ethics, equity, and justice. We will discuss FACT (fairness, accuracy, confidentiality, and transparency) based approaches to increasing the integrity of our work in data science.
 
@@ -47,6 +45,7 @@ This training is intended for anyone who works with data. It is for researchers,
 
 At the end of this workshop, learners should begin to be able to:
 
+* Define what ethics, equity, responsibility, and justice mean for the data sciences.
 * Describe examples of how the development of data science can both contribute to inequities, and be leveraged to address them.
 * Begin to identify the underlying context, goals, and incentives influencing their data-driven research.
 * Assess whether a research project’s data meets FAIR (Findable, Accessible, Interoperable and Reusable) criteria.
