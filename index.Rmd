@@ -1,6 +1,6 @@
 ---
 title: Responsible Data Science
-author: [Pamela Reynolds, Sydney Wood, & Michael Livanos]
+author: [Pamela Reynolds, Sydney Wood, Michael Livanos]
 date: "`r Sys.Date()`"
 
 github-repo: ucdavisdatalab/responsible-data-science
