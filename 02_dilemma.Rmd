@@ -2,7 +2,9 @@
 
 ## The Power (and Promises) of Data Science
 
-Data science has contributed to breakthroughs in nearly every discipline, leading to some of the most striking advances and discoveries of the 21st century.
+Data science has contributed to breakthroughs in nearly every discipline,
+leading to some of the most striking advances and discoveries of the 21st
+century.
 
 Some noteworthy contributions of data science include (Wamba et al., 2015):
 
@@ -13,14 +15,37 @@ Some noteworthy contributions of data science include (Wamba et al., 2015):
 * Replacing/supporting human decision making with automated algorithms
 * Innovating new business models, products and services
 
-Within our daily lives, the ability to parse large volumes of data to identify useful information is paramount. To name a few: web search engines optimized to return the most useful links, caller ID warning us not to pick up spam calls, recommender systems helping us find new music, real time traffic updates, speech to text, and instant language translation technologies. These mundane tasks belie revolutionary technological advances enabled by stores of big data that have also been used to elevate living standards and develop life-saving technologies. 
+Within our daily lives, the ability to parse large volumes of data to identify
+useful information is paramount. To name a few: web search engines optimized to
+return the most useful links, caller ID warning us not to pick up spam calls,
+recommender systems helping us find new music, real time traffic updates,
+speech to text, and instant language translation technologies. These mundane
+tasks belie revolutionary technological advances enabled by stores of big data
+that have also been used to elevate living standards and develop life-saving
+technologies. 
 
 ## The Problem of Data Science
 
-The application of data science has drastically affected cultures and social structures on a rapid scale, sometimes with unintended consequences. For example, web search engines optimized to return the most useful links are built to prioritize popularity without taking veracity into account, which can contribute to the spread of misinformation. Caller ID can create a false sense of security because scammers have learned to make [legitimate seeming names](https://sevis.com/the-dark-side-of-voice-calls/) and numbers appear. Recommender systems helping us find new music could be limiting the [socio-cultural diversity](https://transactions.ismir.net/articles/10.5334/tismir.106/) of the artists we listen to. Despite its accolades, data science is also blamed for perpetuating and exacerbating racial bias and harming disenfranchised populations. 
+The application of data science has drastically affected cultures and social
+structures on a rapid scale, sometimes with unintended consequences. For
+example, web search engines optimized to return the most useful links are built
+to prioritize popularity without taking veracity into account, which can
+contribute to the spread of misinformation. Caller ID can create a false sense
+of security because scammers have learned to make [legitimate seeming
+names](https://sevis.com/the-dark-side-of-voice-calls/) and numbers appear.
+Recommender systems helping us find new music could be limiting the
+[socio-cultural
+diversity](https://transactions.ismir.net/articles/10.5334/tismir.106/) of the
+artists we listen to. Despite its accolades, data science is also blamed for
+perpetuating and exacerbating racial bias and harming disenfranchised
+populations. 
 
 ## Good or Evil?
 
-So, which is it? Is data science the next stage in science’s evolution, necessary for advancing medical, environmental, biological and social science disciplines? Or is data science just a new way for those in power to control wealth, access to information, and influence the masses?
+So, which is it? Is data science the next stage in science’s evolution,
+necessary for advancing medical, environmental, biological and social science
+disciplines? Or is data science just a new way for those in power to control
+wealth, access to information, and influence the masses?
 
-To approach this question, let's start at the beginning and learn about the history of data science.
+To approach this question, let's start at the beginning and learn about the
+history of data science.

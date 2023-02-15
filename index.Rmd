@@ -34,28 +34,75 @@ output:
 
 ## Workshop Description
 
-Technical advancements through data science combined with the exponential increase in data has led to research breakthroughs across domains and generated entirely new industries. But, lagging behind this growth is our understanding of the evolving socio-technical landscape and ability to predict the indirect consequences of our work. While laws determine the legal parameters governing data use, data science approaches that are technically legal can still be used unethically and irresponsibly, with disastrous consequences from loss of revenue to human rights violations. Through case studies and interactive sessions, this workshop provides an overview of how to practice responsible data science by incorporating considerations of ethics, equity, and justice. We will discuss FACT (fairness, accuracy, confidentiality, and transparency) based approaches to increasing the integrity of our work in data science.
+Technical advancements through data science combined with the exponential
+increase in data has led to research breakthroughs across domains and generated
+entirely new industries. But, lagging behind this growth is our understanding
+of the evolving socio-technical landscape and ability to predict the indirect
+consequences of our work. While laws determine the legal parameters governing
+data use, data science approaches that are technically legal can still be used
+unethically and irresponsibly, with disastrous consequences from loss of
+revenue to human rights violations. Through case studies and interactive
+sessions, this workshop provides an overview of how to practice responsible
+data science by incorporating considerations of ethics, equity, and justice. We
+will discuss FACT (fairness, accuracy, confidentiality, and transparency) based
+approaches to increasing the integrity of our work in data science.
 
 ## Introduction
 
-This training is intended for anyone who works with data. It is for researchers, students, and other learners who are interested in becoming better data scientists. The topic of responsible data science (RDS) is too broad for a single workshop, and thus this curriculum is designed as an introduction to help you begin to identify how your priorities and the socio-technical and historical context of your data and methods impact your research. Through discussions of case studies and emerging data science movements, we will describe actionable practices that you can implement to improve your research and development workflows. We encourage you to engage with the many additional readings, course materials, and other resources linked herein and continue the dialogue with others in your classes, research groups, and other communities.
+This training is intended for anyone who works with data. It is for
+researchers, students, and other learners who are interested in becoming better
+data scientists. The topic of responsible data science (RDS) is too broad for a
+single workshop, and thus this curriculum is designed as an introduction to
+help you begin to identify how your priorities and the socio-technical and
+historical context of your data and methods impact your research. Through
+discussions of case studies and emerging data science movements, we will
+describe actionable practices that you can implement to improve your research
+and development workflows. We encourage you to engage with the many additional
+readings, course materials, and other resources linked herein and continue the
+dialogue with others in your classes, research groups, and other communities.
 
 ## Learning Objectives
 
 At the end of this workshop, learners should begin to be able to:
 
-* Define what ethics, equity, responsibility, and justice mean for the data sciences.
-* Describe examples of how the development of data science can both contribute to inequities, and be leveraged to address them.
-* Begin to identify the underlying context, goals, and incentives influencing their data-driven research.
-* Assess whether a research project’s data meets FAIR (Findable, Accessible, Interoperable and Reusable) criteria.
-* Use a responsible data science (RDS) framework to evaluate the potential impact(s) of a research project case study.
-* Revise their research design using FACT(Fairness, Accuracy, Confidentiality, and Transparency) principles.
+* Define what ethics, equity, responsibility, and justice mean for the data
+sciences.
+* Describe examples of how the development of data science can both contribute
+* to inequities, and be leveraged to address them.
+* Begin to identify the underlying context, goals, and incentives influencing
+their data-driven research.
+* Assess whether a research project’s data meets FAIR (Findable, Accessible,
+* Interoperable and Reusable) criteria.
+* Use a responsible data science (RDS) framework to evaluate the potential
+impact(s) of a research project case study.
+* Revise their research design using FACT(Fairness, Accuracy, Confidentiality,
+* and Transparency) principles.
 * Identify where to go to learn more.
 
 ## Expectations
 
-The focus of this training is on helping researchers take responsibility for promoting equity and justice in their data science practices and applications. This curriculum therefore includes case studies and discussions of *irresponsible practices*, *inequities*, and *injustices*. Many of these adverse effects most severely affect vulnerable, disenfranchised, and/or oppressed populations. Confronting these topics is often disturbing and difficult, and we acknowledge that while uncomfortable these studies are based on real life experiences and should not be dismissed. We invite you to reflect upon and share your own experiences on these topics. 
+The focus of this training is on helping researchers take responsibility for
+promoting equity and justice in their data science practices and applications.
+This curriculum therefore includes case studies and discussions of
+*irresponsible practices*, *inequities*, and *injustices*. Many of these
+adverse effects most severely affect vulnerable, disenfranchised, and/or
+oppressed populations. Confronting these topics is often disturbing and
+difficult, and we acknowledge that while uncomfortable these studies are based
+on real life experiences and should not be dismissed. We invite you to reflect
+upon and share your own experiences on these topics. 
 
-Each case study starts with a brief overview and concludes with a summary. If you find a particular case study to be traumatizing, skip to the summary and take a look at the additional resources for alternate case studies and resources on the topic.
+Each case study starts with a brief overview and concludes with a summary. If
+you find a particular case study to be traumatizing, skip to the summary and
+take a look at the additional resources for alternate case studies and
+resources on the topic.
 
-We expect every attendee to engage in respectful and equitable communication with workshop organizers and fellow attendees. As a UC Davis hosted workshop, we commit to upholding the [Principles of Community](https://diversity.ucdavis.edu/principles-community) and will not tolerate behavior that does not align with those values. Harassment can be reported directly to the workshop instructors or to the instructional team account at [datalab-training@ucdavis.edu](mailto:datalab-training@ucdavis.edu) (note: we are all mandatory reporters). Additional resources can be found at the [UC Davis Office of Diversity, Equity and Inclusion](https://diversity.ucdavis.edu/reporting-issues-bullying-harassment-discrimination-bias-or-misconduct).
+We expect every attendee to engage in respectful and equitable communication
+with workshop organizers and fellow attendees. As a UC Davis hosted workshop,
+we commit to upholding the [Principles of
+Community](https://diversity.ucdavis.edu/principles-community) and will not
+tolerate behavior that does not align with those values. Harassment can be
+reported directly to the workshop instructors or to the instructional team
+account at [datalab-training@ucdavis.edu](mailto:datalab-training@ucdavis.edu)
+(note: we are all mandatory reporters). Additional resources can be found at
+the [UC Davis Office of Diversity, Equity and
+Inclusion](https://diversity.ucdavis.edu/reporting-issues-bullying-harassment-discrimination-bias-or-misconduct).
