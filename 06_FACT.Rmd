@@ -451,3 +451,10 @@ pre-prints allowed non-experts to disseminate their research with ease
 regardless of the accuracy of those findings. This led to the massive amounts
 of wide-spread misinformation regarding COVID-19. 
 
+## Applying FACT
+
+Thinking about your specific field of study, how would you rate the feasibility and importance for producing equitable, responsible research for each FACT element?
+
+```{r, echo=FALSE, fig.alt="Four quadrant graph with more to less feasible on the y-axis and less to more important for RDS on the x-axis."}
+knitr::include_graphics("./images/RDS_poll_feasibility-importance.png")
+```
