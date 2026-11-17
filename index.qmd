@@ -1,36 +1,4 @@
----
-title: Responsible Data Science
-author: [Pamela Reynolds, Sydney Wood, Michael Livanos]
-date: "`r Sys.Date()`"
-
-github-repo: ucdavisdatalab/responsible-data-science
-url: "https://ucdavisdatalab.github.io/responsible-data-science/"
-
-lang: en-us
-
-site: "bookdown::bookdown_site"
-knit: "bookdown::render_book"
-output:
-  bookdown::gitbook:
-    fig_caption: false
-    config:
-      toc:
-        before: |
-          <li><a href="https://datalab.ucdavis.edu/">
-            <img src="https://datalab.ucdavis.edu/wp-content/uploads/2019/07/datalab-logo-full-color-rgb-1.png" style="height: 100%; width: 100%; object-fit: contain" />
-          </a></li>
-          <li><a href="./" style="font-size: 18px">Responsible Data Science</a></li>
-        after: |
-          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
-            <img alt="CC BY-SA 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" style="float: right; padding-right: 10px;" />
-          </a>
-        collapse: section
-      sharing: no
-      view: https://github.com/ucdavisdatalab/responsible-data-science/blob/master/%s
-      edit: https://github.com/ucdavisdatalab/responsible-data-science/edit/master/%s
----
-
-# Overview {-}
+# Overview {.unnumbered}
 
 ## Workshop Description
 
@@ -63,21 +31,23 @@ dialogue with others in your classes, research groups, and other communities.
 
 ## Learning Objectives
 
+:::{.callout-note title="Learning Goals" collapse="false"}
 At the end of this workshop, learners should begin to be able to:
 
 * Define what ethics, equity, responsibility, and justice mean for the data
-sciences.
+  sciences.
 * Describe examples of how the development of data science can both contribute
-* to inequities, and be leveraged to address them.
+  to inequities, and be leveraged to address them.
 * Begin to identify the underlying context, goals, and incentives influencing
-their data-driven research.
-* Assess whether a research project’s data meets FAIR (Findable, Accessible,
-* Interoperable and Reusable) criteria.
+  their data-driven research.
+* Assess whether a research project's data meets FAIR (Findable, Accessible,
+  Interoperable and Reusable) criteria.
 * Use a responsible data science (RDS) framework to evaluate the potential
-impact(s) of a research project case study.
-* Revise their research design using FACT(Fairness, Accuracy, Confidentiality,
-* and Transparency) principles.
+  impact(s) of a research project case study.
+* Revise their research design using FACT (Fairness, Accuracy, Confidentiality,
+  and Transparency) principles.
 * Identify where to go to learn more.
+:::
 
 ## Expectations
 
@@ -89,7 +59,7 @@ adverse effects most severely affect vulnerable, disenfranchised, and/or
 oppressed populations. Confronting these topics is often disturbing and
 difficult, and we acknowledge that while uncomfortable these studies are based
 on real life experiences and should not be dismissed. We invite you to reflect
-upon and share your own experiences on these topics. 
+upon and share your own experiences on these topics.
 
 Each case study starts with a brief overview and concludes with a summary. If
 you find a particular case study to be traumatizing, skip to the summary and

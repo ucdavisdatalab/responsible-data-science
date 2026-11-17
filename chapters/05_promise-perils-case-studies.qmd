@@ -1,27 +1,27 @@
-# Promise And Perils Case Studies
+# Promise and Perils Case Studies
 
 Let’s explore responsible data science by unpacking examples of data science
 enabled automation and accessibility, which are commonly lauded as promoting
 social good.
 
 Read through the assigned case study from the list below. Introduce yourself to
-your breakout group and discuss the study. 
+your breakout group and discuss the study.
 
 To help guide your discussion, consider:
 
 * What is the real problem the technology was meant to solve? Who determined
-this was a problem? Who are the stakeholders? 
+this was a problem? Who are the stakeholders?
 * Whose voice is being represented? Who is being silenced?
 * Are there any consequences and dilemmas missing from the case study
 description?
 * What, if any, of the consequences should have been anticipated? Why do you
 think they were not considered? * What strategies, technical or
 non-technical, should have been included from the beginning to help address
-potential dilemmas? 
+potential dilemmas?
 * What can you learn from this study apply to your work? What should we as a
 research community learn for future automation or accessibility projects?
 * If there is still time, pick and skim another case study. Is there any
-overlap in your responses? 
+overlap in your responses?
 
 *Nominate someone to share out what you discussed.*
 
@@ -31,7 +31,7 @@ overlap in your responses?
 While automation comes in many forms, perhaps the most salient examples come
 from changes within the workforce. For example, advances in technology created
 in part through data science have reduced the danger presented to human workers
-through replacement or supplementation. 
+through replacement or supplementation.
 
 ### Case 1: Robotics in Factories and Mining
 
@@ -41,7 +41,7 @@ threat of disaster and workplace injury. Robots and other automation
 technologies were introduced not only to increase productivity, but also to
 reduce the negative consequences to humans who previously worked those jobs.
 Here we don’t describe any one employment sector, instead we give an overview
-of the potential impacts of automation in various workplaces.  
+of the potential impacts of automation in various workplaces.
 
 **Good**: The rate of  workplace death and injury in factory and mining jobs
 have steadily decreased since robots were first introduced into the
@@ -58,10 +58,10 @@ these new more high-tech jobs, leading to massive unemployment rates,
 disproportionately affecting older workers. In addition, by shifting the power
 between management and labor positions, automating the workforce has weakened
 the power of organized labor, which has been the driving force of labor laws
-across all employment sectors.  
+across all employment sectors.
 
 
-### Case 2: Automation in Public Safety 
+### Case 2: Automation in Public Safety
 
 **Summary**: In the early 2010s many public safety operations began benefiting
 from the use of artificial intelligence (AI) robotics and machine learning
@@ -69,14 +69,14 @@ algorithms. Here we review the impacts of automated labor and decision-making
 related to “public safety,” broadly defined as emergency responders (i.e.,
 police, military, search and rescue, etc.). Below we discuss the various
 impacts of the decisions from positive (injury and loss of life prevention) to
-negative (mental health and human rights impacts). 
+negative (mental health and human rights impacts).
 
 **Good**: For example, bomb and hazardous material disposal robots began taking
 the place of safety technicians/specialists, thereby preserving human life.
 Militarized automated technology, such as flight drones equipped with risk
 assessment AI, has reduced the number of human pilots in combat zones. More
 recently, AI robots have been proposed as a supplement or replacement for first
-responders, such as rescue teams, during natural disasters. 
+responders, such as rescue teams, during natural disasters.
 
 **Consequences**: Some of these robots utilize facial recognition, surveillance
 AI, and/or are armed with weapons.  Decision-making using AI (especially facial
@@ -103,7 +103,7 @@ This is only one of the many examples of automation targeting marginalized
 communities.
 
 
-### Case 3: Self-Driving Cars 
+### Case 3: Self-Driving Cars
 
 **Summary**:  Just think of the amount of free-time we would have if our cars
 could drive themselves! Beyond being a very cool and attractive advancement in
@@ -116,7 +116,7 @@ US) through 2021, there have been approximately 40,000 traffic fatalities per
 year (https://www.nhtsa.gov/data). In theory, self-driven cars should be safer
 than ones driven by humans. Computer processing speeds are millions of times
 faster than the average human reaction time, so unexpected collisions could be
-rare in a future of entirely self-driving cars. 
+rare in a future of entirely self-driving cars.
 
 **Predicted Consequences**: Over 2.2 million people are currently employed as
 drivers in the US. If we switched to fully automated drivers, would there still
@@ -157,7 +157,7 @@ science has contributed to greater accessibility for a large population of
 people who have previously had limited access to many quality of life
 improvements.
 
-#### Case 4: Health Tracking and Precision Medicine
+### Case 4: Health Tracking and Precision Medicine
 
 **Summary**: The intersection of biostatistics, data-science, software
 development and biotechnology has led to an increase in mobile applications
@@ -168,7 +168,7 @@ health (mHealth) apps. There is even evidence that health care workers
 “prescribe” or recommend specific mHealth apps. In addition most mHealth apps
 include features that are free to use. However, as these apps are generally not
 subject to regulation, misuse can lead to negative physical and mental health
-outcomes, especially in vulnerable populations. 
+outcomes, especially in vulnerable populations.
 
 **Good**: On the academic side, the accessibility of vast amounts of
 non-invasive health data has allowed researchers to develop innovative methods
@@ -182,7 +182,7 @@ disorders, and irritable bowel syndrome (IBS). According to the CDC, 9.7% of
 people who reside in the US were uninsured in 2020. While health apps are not a
 replacement for actual healthcare, they have the potential to provide valuable
 services that make substantial differences in health outcomes in underserved
-populations. 
+populations.
 
 **Unintended Consequences**: Despite the increased usage of smart devices in
 low socio-economic populations and the advocacy around their potential for
@@ -207,13 +207,13 @@ the data for hiring and career decisions. Health data in these apps is more
 vulnerable to theft by hackers, and has an increased risk for surveillance.
 
 
-#### Case 5: Improvements for Underserved Populations
+### Case 5: Improvements for Underserved Populations
 
 **Summary**:  Historically, people with sensory impairments have had limited
 accessibility to the majority of internet and smart device functionality. Only
 within the last 5 years has text-to-speech, auto-captioning, and AI-generated
 photo descriptions become mainstream for online content, with tremendous
-accessibility increases for those with visual and auditory impairments. 
+accessibility increases for those with visual and auditory impairments.
 
 **Good**: Data science has also been used to develop “smart” assistive
 technologies that allow for sound mixing hearing aids, prosthetic limb control,
@@ -245,4 +245,4 @@ good does not negate its role, but instead serves as a note of caution. As data
 scientists it is our job to predict and reduce the impact of negative
 consequences that may emerge from our research and development products. The
 fact that we still have a long way to go should inspire you to continue to
-innovate the data science tools, methods, and approaches in your domain. 
+innovate the data science tools, methods, and approaches in your domain.

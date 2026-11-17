@@ -20,7 +20,7 @@ As we move to address these issues, let's start with some definitions.
 availability of high quality data while limiting the potential for misuse that
 could erode fundamental rights and undermine the public trust in digital
 technologies.”*[-Digital
-Society](https://www.thedigitalsociety.info/themes/responsible-data-science/) 
+Society](https://www.thedigitalsociety.info/themes/responsible-data-science/)
 
 ## Ethics
 
@@ -29,7 +29,7 @@ legal can still be unethical and irresponsible. Here we imply the definition of
 **ethics** as the branch of knowledge establishing the fundamental principles
 of "right and wrong" behavior. These standards are informative, but not
 sufficient, for the appropriate management and use of data in today’s age of
-technology. 
+technology.
 
 ## Equity
 
@@ -44,7 +44,7 @@ is helpful in understanding how data has been historically used to harm
 marginalized communities and communities of color. Data equity also allows
 opportunities for researchers to understand how marginalized communities have
 been adversely impacted by data misuse through racial bias, hyper surveillance,
-and stereotyping. 
+and stereotyping.
 
 ## Justice
 
@@ -59,7 +59,7 @@ made visible and treated because of their digital data.
 
 **In this workshop we will not debate ethics, equity, or justice. We invite you
 into this space with the explicit assumption that you seek to produce
-data-driven research benefiting society.** 
+data-driven research benefiting society.**
 
 We assume you seek to use data science to generate knowledge while causing as
 little harm as possible. We aim to give you the intellectual tools to embed

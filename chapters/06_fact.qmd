@@ -1,4 +1,4 @@
-# The  FACT of Data Science 
+# The FACT of Data Science
 
 *“Responsible data scientists take steps to make data they depend on FAIR
 (findable, accessible, interoperable, reusable) while ensuring the FACT
@@ -18,7 +18,7 @@ socio-technical and structural inequities. Below we will discuss each in turn
 along with specific actions that will help you develop more responsible and
 equitable data science practices.
 
-## Case Study: Carbin App for Pothole Identification 
+## Case Study: Carbin App for Pothole Identification
 
 **Summary**: In an attempt to reduce the carbon emissions in highly populated
 areas, a multi-campus contingent consisting of 6 undergraduate and graduate
@@ -36,13 +36,13 @@ accommodate for the SES and location-based biases that would result from using
 only iPhone data. In addition, they recognized the SES imbalances of who has
 access to cars and utilized volunteers as well as some public transportation
 services (buses) to gain data in areas that may not be accessed due to lack of
-local drivers, or drivers without smartphones. 
+local drivers, or drivers without smartphones.
 
 **Methods**: The team recognized that algorithms are likely to pick up on
 differences in driving style for individuals, weather conditions, and cultural
 norms. They use highly sophisticated math derived from extensive beta-testing
 in order to adequately isolate movement caused by road conditions apart from
-driver-created turbulence. 
+driver-created turbulence.
 
 **Communication**: The team behind Carbin has clearly put thought and work
 behind their presentation of the software. They use cross-cultural
@@ -53,7 +53,9 @@ impact surrounding using crowdsourcing alone to collect road condition data,
 and aim to combine crowdsourcing with strategic deployment of drivers to
 collect data in disadvantaged areas.
 
-## Fairness The data science pipeline (from data collection and management to
+## Fairness
+
+The data science pipeline (from data collection and management to
 the development of computational methods for analysis, communication, etc.)
 should be free from bias. In this case, bias refers not only to prejudices such
 as racism, sexism, ableism, etc., but also to uncovering the imbalances and
@@ -125,7 +127,7 @@ assumptions about discrimination and are often incapable of evaluating more
 complex forms of discrimination. Fairness is an aspect we need to be constantly
 vigilant about, not a check box to tick before shipping out a product.
 
-### Case Study: Crowdsourcing City Governance 
+### Case Study: Crowdsourcing City Governance
 
 **Summary**: Departments of housing and transportation in cities across the
 U.S. have begun using data-driven technologies to make governance decisions
@@ -133,7 +135,7 @@ U.S. have begun using data-driven technologies to make governance decisions
 allocation etc.) A vast majority of the data used to inform their decisions are
 collected through “311” complaint hotlines/online reporting. Crowdsourced data
 can give real-time snapshots of the conditions in different parts of the city,
-which can be important for future planning as well as emergency response. 
+which can be important for future planning as well as emergency response.
 
 **Fairness Concerns**: Reporting behaviors have disparate cultural and
 historical impacts are different communities in urban areas. Not only are
@@ -149,9 +151,9 @@ reported through official channels and are not represented in the crowdsourced
 data. The data-driven decision-making is unlikely to correctly account for the
 bias in the crowdsourced data further contributing to the inequities in
 resource allocation and distrust for city governance by underserved
-populations. 
+populations.
 
-## Accuracy 
+## Accuracy
 
 When discussing equity and justice, it is often said impact is more important
 than intention. However, it is also understood that it is impossible to
@@ -183,9 +185,9 @@ misleading ways. We won't go too deep on this topic as there is a wonderful
 primer on Data Visualization. However, bad data visualization can lead to
 base-rate fallacies and a conflation of relative vs. absolute risk/probability,
 so an increased accountability regarding the use of visualizations is needed to
-promote responsibility through accuracy in data science. 
+promote responsibility through accuracy in data science.
 
-### Case Study: Gender and Mentorship 
+### Case Study: Gender and Mentorship
 
 **Summary**: Authors used publication and citation network data which contains
 author names, affiliations and publication venues for individual papers as
@@ -205,7 +207,7 @@ result in higher ratings of satisfaction with mentee relationship as well as
 better mentee impact. They also conclude female mentors are less beneficial to
 female mentees than male mentors with regard to impact, and that female mentors
 lessen their gain by mentoring female students compared to male students. They
-do not report any survey findings on the basis of mentor or mentee gender. 
+do not report any survey findings on the basis of mentor or mentee gender.
 
 **Accuracy Concerns**: This article was very quickly retracted after its
 publication due to the mentorship & gender interpretations of the results.
@@ -225,7 +227,7 @@ incredibly inaccurate for non-anglo names and did not take any non-binary
 gender identities into account through classification(Wilson et al, 2022).   In
 addition, not only were non-binary identities left out of the classification
 process there was not even a mention of the potential presence of non-binary
-genders in academia. 
+genders in academia.
 
 **Mentor-mentee pairs.** The determination of mentor-mentee relationships allow
 for extreme amounts of bias and noise. The determination was made based on the
@@ -233,7 +235,7 @@ academic age at time of publication between authors. On all publications any
 author with an academic age below 7 was considered a mentee and any author with
 an academic age over 20 was considered a mentor if they share an affiliation in
 at least one charred publication. In the age of large scale collaborations,
-this definition of mentor mentee relationships is likely very inaccurate. 
+this definition of mentor mentee relationships is likely very inaccurate.
 
 **Survey data.** The response rate to the 2000 junior scientists surveyed was
 8%, which is fairly standard for survey research, however the sensitive nature
@@ -245,7 +247,7 @@ mentors. Based on what was reported the survey did not have respondents specify
 who their mentor was, so matching survey responses to network derived
 mentor-mentee pairs and impact is not appropriate. There is no guarantee that
 the surveyed research is describing the same relationship represented in the
-network. The results for mentor quality by derived metrics are meaningless. 
+network. The results for mentor quality by derived metrics are meaningless.
 
 **Mentor-mentee gender results.** In addition to the bias introduced by the
 gender classifier, the gender comparisons made by the authors in determination
@@ -318,7 +320,7 @@ rather than our current system where there might be ways to opt-out as a user.
 By simplifying the language in “terms and conditions”, prominently displaying
 the “terms and conditions” and allowing for user flexibility in consenting to
 each data collection/storage usage are all ways to limit the potential abuse of
-data buying and selling. 
+data buying and selling.
 
 ### De- and Re-Identification of Data
 
@@ -337,7 +339,7 @@ relevant to your project. Minimizing the collection of identity specific
 information, such gps level location data, searches or purchases related to
 sensitive/protected information (health, sexual or gender identity, religious
 affiliations, political identities, racial identities) unless absolutely
-necessary, and even then with specific data protections in place. 
+necessary, and even then with specific data protections in place.
 
 ### Case Study: New York City Taxi Data
 
@@ -348,7 +350,7 @@ release was aimed at promoting an eco-themed “hack-a-thon” to crowdsource id
 to improve the ecological impact of NYC taxis services. They anonymized the
 data as a way that would still allow for connecting taxi trips longitudinally,
 to allow for analysis of individual driver patterns and used hashing to
-anonymize both license and medallion numbers. 
+anonymize both license and medallion numbers.
 
 **Confidentiality Concerns**: Hashing the identifying information allowed the
 full number to be reverse engineered due to the non-randomized hashed values.
@@ -359,7 +361,7 @@ combination with other publicly available information from the NYC Taxis
 commission a drivers name can easily be mapped to their driver’s license and
 taxi medallion which could provide major safety concerns for drivers and
 passengers. Sensitive passenger information could also be potentially
-identified from geographical locations of trips starting a drop off location. 
+identified from geographical locations of trips starting a drop off location.
 
 ## Transparency
 
@@ -368,7 +370,7 @@ Open Science movement. Excitingly, data scientists from many different academic
 disciplines have been at the forefront of this movement which is not a surprise
 since it is the products that come from data science practices and research
 that have allowed for many of the tools that facilitate transparency in
-science. 
+science.
 
 ### Open Access as Freedom of Information
 
@@ -383,7 +385,7 @@ gain and novelty. In addition, there is evidence that transparency increases
 the diversity in scientific topics of study and by extension greater
 accessibility for diverse scientists who are underrepresented in academia.
 Preprints through open access databases have been a major tool of transparency
-and accessibility in recent years. Accountability 
+and accessibility in recent years. Accountability
 
 Another important reason that transparency is important is for accountability.
 According to Merton (1957) science is a self-correcting process. Through review
@@ -412,13 +414,11 @@ mitigate the occurrence of scooping. In addition, blockchain allows for
 ownership markers in data to protect data from being claimed by people other
 than those who created or collected the data. It also allows us to easily
 connect data to comprehensive data biographies such as those discussed in other
-sections of this workshop. 
+sections of this workshop.
 
-### Case Study: Everyone’s an Epidemiologist 
+### Case Study: Everyone’s an Epidemiologist
 
-```{r, echo=FALSE, fig.alt="Cartoon by xkcd called Everyone's and epidemiologist."}
-knitr::include_graphics("./images/everyones_an_epidemiologist.png")
-```
+![](/images/everyones_an_epidemiologist.png){fig-alt="Cartoon by xkcd called Everyone's and epidemiologist."}
 
 [*xkcd*](https://xkcd.com/2300/)
 
@@ -449,12 +449,10 @@ publication rates for COVID-19 research that led to a slow down of publication
 of trained epidemiologists. In addition, open access practices such as
 pre-prints allowed non-experts to disseminate their research with ease
 regardless of the accuracy of those findings. This led to the massive amounts
-of wide-spread misinformation regarding COVID-19. 
+of wide-spread misinformation regarding COVID-19.
 
 ## Applying FACT
 
 Thinking about your specific field of study, how would you rate the feasibility and importance for producing equitable, responsible research for each FACT element?
 
-```{r, echo=FALSE, fig.alt="Four quadrant graph with more to less feasible on the y-axis and less to more important for RDS on the x-axis."}
-knitr::include_graphics("./images/RDS_poll_feasibility-importance.png")
-```
+![](/images/RDS_poll_feasibility-importance.png){fig-alt="Four quadrant graph with more to less feasible on the y-axis and less to more important for RDS on the x-axis."}

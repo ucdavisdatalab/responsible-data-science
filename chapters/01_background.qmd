@@ -1,8 +1,6 @@
 # Defining Data Science
 
-```{r, echo=FALSE, fig.alt="Word cloud of terms in blue text relating to data science, with 'data science' in the center with the largest font size by The Data Scientist"}
-knitr::include_graphics("./images/data-science-wordcloud.jpg")
-```
+![](/images/data-science-wordcloud.jpg){fig-alt="Word cloud of terms in blue text relating to data science, with 'data science' in the center with the largest font size by The Data Scientist"}
 
 What is data science? The term emerged in the mid-20th century, but it did not
 achieve broad recognition as a unique discipline until the early 21st century.
@@ -12,11 +10,9 @@ job” (according to the [Harvard Business
 Review](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century))
 in 2012. While a data scientist may be commonly described as someone who writes
 computer code and uses statistics to ask questions, solve problems, and glean
-insights using data, a universal definition of data science is more nebulous. 
+insights using data, a universal definition of data science is more nebulous.
 
-```{r, echo=FALSE, fig.alt="Venn Diagram with data science in the center by Drew Conway"}
-knitr::include_graphics("./images/data_science_vd_conway.png")
-```
+![](/images/data_science_vd_conway.png){fig-alt="Venn Diagram with data science in the center by Drew Conway"}
 
 [*Venn Diagram by Drew Conway*](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 
@@ -40,7 +36,7 @@ analysis of, and inference from data” and the National Institute of Health
 2018](https://datascience.nih.gov/sites/default/files/nih_strategic_plan_for_data_science_final_508.pdf))
 defining it as “an interdisciplinary field of inquiry in which quantitative and
 analytical approaches, processes, and systems are developed and used to extract
-knowledge and insights from increasingly large and/or complex sets of data.” 
+knowledge and insights from increasingly large and/or complex sets of data.”
 
 At the UC Davis DataLab we embrace the commonalities and nuances of these
 definitions. Here we refer to data science as the **integrative,

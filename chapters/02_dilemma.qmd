@@ -22,7 +22,7 @@ recommender systems helping us find new music, real time traffic updates,
 speech to text, and instant language translation technologies. These mundane
 tasks belie revolutionary technological advances enabled by stores of big data
 that have also been used to elevate living standards and develop life-saving
-technologies. 
+technologies.
 
 ## The Problem of Data Science
 
@@ -38,7 +38,7 @@ Recommender systems helping us find new music could be limiting the
 diversity](https://transactions.ismir.net/articles/10.5334/tismir.106/) of the
 artists we listen to. Despite its accolades, data science is also blamed for
 perpetuating and exacerbating racial bias and harming disenfranchised
-populations. 
+populations.
 
 ## Good or Evil?
 
