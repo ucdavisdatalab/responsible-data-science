@@ -1,4 +1,9 @@
 # General
+
+# Pixi environments
+.pixi/*
+!.pixi/config.toml
+
 .DS_Store
 .AppleDouble
 .LSOverride
