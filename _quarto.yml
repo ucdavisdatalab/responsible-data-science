@@ -1,0 +1,58 @@
+project:
+  type: book
+  render:  # only render index.qmd and .qmd files in chapters/
+    - "index.qmd"
+    - "chapters/*.qmd"
+  execute-dir: project  # working directory is always root of project
+  output-dir: "_build/"
+
+book:
+  # Metadata:
+  author:
+    - "Pamela Reynolds"
+    - "Sydney Wood"
+    - "Michael Livanos"
+  title: "Responsible Data Science"
+  description: "Reader for the Responsible Data Science workshop."
+  repo-url: "https://github.com/ucdavisdatalab/responsible-data-science"
+  site-url: "https://ucdavisdatalab.github.io/responsible-data-science"
+  chapters:
+    - "index.qmd"
+    - "chapters/01_background.qmd"
+    - "chapters/02_dilemma.qmd"
+    - "chapters/03_history-in-context.qmd"
+    - "chapters/04_towards-data-ethics-equity-justice.qmd"
+    - "chapters/05_promise-perils-case-studies.qmd"
+    - "chapters/06_fact.qmd"
+
+  # Formatting (be careful about changing these):
+  date: now
+  repo-actions: [issue, source]
+  open-graph: true
+  twitter-card: true
+  favicon: "/images/logos/datalab-logo_square_150x150.png"
+  image: "/images/logos/datalab-logo_opengraph_1200x630.png"
+  image-alt: "The logo of the UC Davis DataLab."
+  sidebar:
+    logo: "/images/logos/datalab-logo-full-color-rgb.png"
+    logo-alt: "The logo of the UC Davis DataLab."
+    logo-href: "https://datalab.ucdavis.edu/"
+  page-footer:
+    right: |
+      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="License: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg"></a>
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    include-in-header:
+      - text: |
+          <style>
+          .callout.callout-style-default .callout-body {
+            padding: 0 1.5rem 0;
+          }
+          #quarto-sidebar a.text-start {
+            margin-top: 1rem;
+            font-weight: bold;
+          }
+          </style>
