@@ -1,6 +1,8 @@
 [workspace]
 authors = [
   "Pamela Reynolds <plreynolds@ucdavis.edu>",
+  "Sydney Wood",
+  "Michael Livanos"
 ]
 name = "responsible-data-science"
 description = "Reader for the Responsible Data Science workshop."
